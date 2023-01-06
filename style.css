@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Ruposhi Bangla";
+  src: url("./fonts/RuposhiBanglaUIUni-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+h1 {
+  font-family: "Ruposhi Bangla" !important;
+}
